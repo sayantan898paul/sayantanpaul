@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sayantan Paul</h1>
 <h3 align="center">a seasoned Data Engineer dedicated to leveraging technology to drive actionable insights and optimize business processes.</h3>
-<img align=“right” alt=“coding” width=“400” src=“https://miro.medium.com/v2/resize:fit:1400/format:webp/1*SQ0gmwO8XV0b3KoTMWavEA.gif”>
+<img align=“right” alt=“coding” width=“400” src=“https://media.istockphoto.com/id/1278527193/vector/vector-illustration-of-a-man-sitting-at-a-computer-a-system-administrator-in-a-data-center.jpg?s=1024x1024&w=is&k=20&c=KHdBrgd0brYerhNrc_ozjadsdZDUtqgOSwfhjfIYsKQ=”>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayantan898paul&label=Profile%20views&color=0e75b6&style=flat" alt="sayantan898paul" /> </p>
 
